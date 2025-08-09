@@ -1,9 +1,9 @@
 phase: phase-1
-generated: "2025-08-09T23:47:34.957Z"
+generated: "2025-08-09T23:48:05.946Z"
 chat_title: "DuoEcho Extension Debugging Restart"
 files:
-  signal: "handoffs/solos-signal-duoecho-extension-debugging-restart-1754783253816.md"
-  full: "handoffs/solos-full-duoecho-extension-debugging-restart-1754783253816.md"
+  signal: "handoffs/solos-signal-duoecho-extension-debugging-restart-1754783284842.md"
+  full: "handoffs/solos-full-duoecho-extension-debugging-restart-1754783284842.md"
   branch: "main"
   folder: "handoffs"
 token_budget: 1200
