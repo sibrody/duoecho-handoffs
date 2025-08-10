@@ -1,10 +1,10 @@
 phase: phase-1
-generated: "2025-08-10T04:16:51.148Z"
-chat_title: "DuoEcho Extension Debugging Fixes"
+generated: "2025-08-10T16:02:52.215Z"
+chat_title: "Genesis Project Overview"
 files:
-  signal: "handoffs/solos-signal-duoecho-extension-debugging-fixes-1754799409846.md"
-  full: "handoffs/solos-full-duoecho-extension-debugging-fixes-1754799409846.md"
+  signal: "handoffs/ideas-signal-genesis-project-overview-1754841771099.md"
+  full: "handoffs/ideas-full-genesis-project-overview-1754841771099.md"
   branch: "main"
   folder: "handoffs"
 token_budget: 1200
-token_used: 230
+token_used: 795
