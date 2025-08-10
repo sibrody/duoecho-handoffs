@@ -1,10 +1,10 @@
 phase: phase-1
-generated: "2025-08-10T16:04:56.337Z"
-chat_title: "Genesis Project Overview"
+generated: "2025-08-10T16:07:48.926Z"
+chat_title: "AI Niche Idea Validation Strategy"
 files:
-  signal: "handoffs/ideas-signal-genesis-project-overview-1754841895320.md"
-  full: "handoffs/ideas-full-genesis-project-overview-1754841895320.md"
+  signal: "handoffs/ideas-signal-ai-niche-idea-validation-strategy-1754842067361.md"
+  full: "handoffs/ideas-full-ai-niche-idea-validation-strategy-1754842067361.md"
   branch: "main"
   folder: "handoffs"
 token_budget: 1200
-token_used: 795
+token_used: 726
