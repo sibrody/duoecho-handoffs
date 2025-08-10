@@ -1,10 +1,10 @@
 phase: phase-1
-generated: "2025-08-10T04:00:15.962Z"
+generated: "2025-08-10T04:11:09.472Z"
 chat_title: "DuoEcho Extension Debugging Fixes"
 files:
-  signal: "handoffs/solos-signal-duoecho-extension-debugging-fixes-1754798414749.md"
-  full: "handoffs/solos-full-duoecho-extension-debugging-fixes-1754798414749.md"
+  signal: "handoffs/solos-signal-duoecho-extension-debugging-fixes-1754799068450.md"
+  full: "handoffs/solos-full-duoecho-extension-debugging-fixes-1754799068450.md"
   branch: "main"
   folder: "handoffs"
 token_budget: 1200
-token_used: 157
+token_used: 205
