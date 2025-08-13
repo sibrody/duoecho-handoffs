@@ -1,10 +1,10 @@
 phase: phase-1
-generated: "2025-08-10T16:07:48.926Z"
-chat_title: "AI Niche Idea Validation Strategy"
+generated: "2025-08-13T02:11:23.913Z"
+chat_title: "Naming Duoecho: Pronunciation Challenge"
 files:
-  signal: "handoffs/ideas-signal-ai-niche-idea-validation-strategy-1754842067361.md"
-  full: "handoffs/ideas-full-ai-niche-idea-validation-strategy-1754842067361.md"
+  signal: "handoffs/ideas-signal-naming-duoecho-pronunciation-challenge-1755051082356.md"
+  full: "handoffs/ideas-full-naming-duoecho-pronunciation-challenge-1755051082356.md"
   branch: "main"
   folder: "handoffs"
 token_budget: 1200
-token_used: 726
+token_used: 602
